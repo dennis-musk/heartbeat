@@ -1,6 +1,6 @@
 /* heartbeat - heartbeat.c
  *
- * Copyright (C) 2016 - 2017 Zengxianbo. All Rights Reserved. 
+ * Copyright (C) 2016 - 2017 Xianbo Zeng. All Rights Reserved. 
  *
  * This program is free software; you can redistribute it and/or modify it
  * under the terms and conditions of the GNU General Public License,
