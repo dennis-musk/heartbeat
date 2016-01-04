@@ -66,7 +66,7 @@ ssize_t default_probe(void)
  * @serverfd_arg : server socket fd
  * @sec_arg: how long time send one heartbeat, 1 or bigger integer
  * @maxprobes_arg: maxmum probe times, 3 or other non-negative integer
- * @function: broken_callback 
+ * @ops: heartbeat operations
  *
  * RETURN:
  *  0 : success. otherwise, failed.
